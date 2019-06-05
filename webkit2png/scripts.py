@@ -35,7 +35,7 @@ from optparse import OptionParser
 
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
-from PyQt4.QtWebKit import *
+from PySide.QtWebKit import *
 from PyQt4.QtNetwork import *
 
 VERSION="20091224"
